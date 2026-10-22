@@ -3,6 +3,8 @@
 Python tools that pull MIDI, audio and name lists out of Yamaha EX5, EX5R, and EX7 save files.
 They use only the Python 3 standard library, so there is nothing to install.
 
+> **AI disclosure:** AI tools were used to create this project.
+
 ## Usage
 
 Point each tool at a folder of EX5 files (subfolders are searched too). Run from the project root:
